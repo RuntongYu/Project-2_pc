@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background:#323232;
+    color: #fff;
+}
+
+.box{
+    width:1200px;
+    margin:0 auto;
+    overflow: hidden;
+}
+
+.header{
+    height:200px;
+    line-height: 200px;
+    background:#323232;
+}
+.logo img{
+    width: 400px;
+    height: 125px;
+}
+.nav a{
+    padding:3px 25px;
+    border:2px solid #fff;
+    cursor: pointer;
+    color: #fff;
+}
+.nav a:hover{
+    text-decoration: none;
+}
+.nav .menu img{
+    width:150px;
+}
+/* one */
+.one{
+    padding:50px 0px  100px 0px;
+    border-bottom: 5px solid #989898;;
+}
+
+.one img{
+    width: 100%;
+}
+.one .des{
+    padding-top:20%;
+}
+
+/* TOW */
+.tow{
+    padding:50px 0px 100px 0px;
+    border-bottom: 5px solid #989898;
+}
+.tow h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+.tow .milk img{
+    width: 150px;
+}
+.tow .milk .des{
+    padding-top: 13%;
+}
+
+/* five */
+.five{
+    padding:50px 0px 100px 0px;
+    border-bottom: 5px solid #989898;
+}
+.five h2,.five h1{
+    color:rgb(197, 199, 66);
+}
+.five span{
+    font-size: 18px;
+    margin-top:15px; 
+}
+.five .tit{
+    float:left;
+}
+.five .ts{
+    float:right;
+}
+.five .m1{
+    margin-top:20px;
+}
+
+/* sex */
+.sex{
+    padding:50px 0px 25px 0px;
+    font-size: 18px;
+    border-bottom: 5px solid #989898;
+}
+ #imgs img{
+    width: 100%;
+}
+#imgs h1{
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 45px;
+}
+
+/* seven */
+.seven{
+    padding:50px 0px;
+}
+.seven .main{
+    padding:40px;
+    border:2px solid #ccc;
+}
+.seven h1{
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 45px;
+}
